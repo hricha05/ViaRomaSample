@@ -2,9 +2,9 @@ h1 {
 	font-style: italic;
 	font-weight: bold;
 	font-size: 1.6em;
-	font-family: Verdana, serif;
+	font-family: 'Trirong', serif;
 	color: #006600;
-	background-image: url(vrlogo.png);
+	background-image: url(https://dl.dropboxusercontent.com/u/26719054/test_site/Images/vrlogo.png);
 	background-repeat: no-repeat;
 	padding: 1em 1em 1.5em 0.5em;
 }
@@ -29,17 +29,13 @@ h3.subtitle{
 }
 
 p{
-	font-family: Verdana, Arial, sans-serif;
+	font-family: 'Rubik', sans-serif;
 	clear: left;
 }
 
 ul{
-	font-family: Verdana, Arial, sans-serif;
+	font-family: 'Rubik', sans-serif;
 	list-style-type: square;
-}
-
-li.navigation{
-	display: inline;
 }
 
 ul.menuitem{
