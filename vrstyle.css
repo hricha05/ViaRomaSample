@@ -1,0 +1,73 @@
+h1 {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1.6em;
+	font-family: Verdana, serif;
+	color: #006600;
+	background-image: url(vrlogo.png);
+	background-repeat: no-repeat;
+	padding: 1em 1em 1.5em 0.5em;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 1.25em;
+	font-family: Tahoma, Arial, sans serif;
+	color: #006600;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 1.13em;
+	font-family: Tahoma, Arial, sans-serif;
+	color: #006600;
+}
+
+h3.subtitle{
+	font-style: italic;
+	clear: left;
+}
+
+p{
+	font-family: Verdana, Arial, sans-serif;
+	clear: left;
+}
+
+ul{
+	font-family: Verdana, Arial, sans-serif;
+	list-style-type: square;
+}
+
+li.navigation{
+	display: inline;
+}
+
+ul.menuitem{
+	font-size: 0.75em;
+	list-style-position: inside;
+	display: block;
+	list-style-type: square;
+}
+
+img{
+	float: left;
+}
+
+img.staff{
+	float: left;
+	padding: 0.25em 1em 1.5em 0.5em;
+}
+a:link{
+	color: #0000ff;
+	text-decoration: none;
+}
+
+a:visited{
+		color: #006600;
+		text-decoration: none;
+}
+
+a:hover{
+	color: #ff0000;
+	text-decoration: underline;
+}
