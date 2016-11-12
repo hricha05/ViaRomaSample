@@ -6,26 +6,21 @@ h1 {
 	color: #006600;
 	background-image: url(https://dl.dropboxusercontent.com/u/26719054/test_site/Images/vrlogo.png);
 	background-repeat: no-repeat;
-	padding: 1em 1em 1.5em 0.5em;
+	padding: 1.5em 1em 1.5em 0.5em;
 }
 
 h2 {
 	font-weight: bold;
-	font-size: 1.25em;
-	font-family: Tahoma, Arial, sans serif;
+	font-family: 'Trirong', serif;
+	text-align: center;
 	color: #006600;
 }
 
 h3 {
 	font-weight: bold;
 	font-size: 1.13em;
-	font-family: Tahoma, Arial, sans-serif;
+	font-family: 'Trirong', serif;
 	color: #006600;
-}
-
-h3.subtitle{
-	font-style: italic;
-	clear: left;
 }
 
 p{
@@ -48,10 +43,14 @@ ul.menuitem{
 img{
 	float: left;
 }
-
-img.staff{
-	float: left;
-	padding: 0.25em 1em 1.5em 0.5em;
+#staff1{
+	margin-right: 10px;
+}
+#staff2{
+	margin-right: 10px;
+}
+#staff3{
+	margin-right: 10px;
 }
 a:link{
 	color: #0000ff;
