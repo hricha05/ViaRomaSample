@@ -40,8 +40,17 @@ ul.menuitem{
 	list-style-type: square;
 }
 
+.thumbnail>p {
+	line-height: 1.4em;
+}
+
 img{
 	float: left;
+}
+.img-main{
+	width: 80px;
+	height: 71px;
+	display: block;
 }
 #staff1{
 	margin-right: 10px;
