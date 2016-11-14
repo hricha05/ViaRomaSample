@@ -40,17 +40,10 @@ ul.menuitem{
 	list-style-type: square;
 }
 
-.thumbnail>p {
-	line-height: 1.4em;
-}
-
-img{
-	float: left;
-}
 .img-main{
 	width: 80px;
 	height: 71px;
-	display: block;
+	text-align: center;
 }
 #staff1{
 	margin-right: 10px;
@@ -62,7 +55,7 @@ img{
 	margin-right: 10px;
 }
 a:link{
-	color: #0000ff;
+	color: #006600;
 	text-decoration: none;
 }
 
@@ -72,6 +65,9 @@ a:visited{
 }
 
 a:hover{
-	color: #ff0000;
+	color: #006600;
 	text-decoration: underline;
+}
+.staff p{
+	line-height: 3em;
 }
